@@ -7,7 +7,6 @@ user = dayemr
 pass = 2rMWAOyiBN0m6pY
 
 
-
 cyberduck bookmark:
 server = dayemr.codingbootcamp.opalstacked.com 
 user = dayemr
