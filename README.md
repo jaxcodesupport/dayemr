@@ -2,9 +2,13 @@
 
 DATABASE:
 https://opal12.opalstacked.com/adminer/?server=MariaDB&db=dayemr
+
 database = dayemr
+
 user = dayemr
+
 pass = 2rMWAOyiBN0m6pY
+
 
 
 cyberduck bookmark:
