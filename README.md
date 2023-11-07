@@ -1,5 +1,16 @@
 # dayemr
 
+DATABASE:
+https://opal12.opalstacked.com/adminer/?server=MariaDB&db=dayemr
+database = dayemr
+user = dayemr
+pass = 2rMWAOyiBN0m6pY
+
+cyberduck bookmark:
+server = dayemr.codingbootcamp.opalstacked.com 
+user = dayemr
+pass = wwKhnWixpuEa0Ung
+
 Pieces
 
 1. Homepage - phone number, link to a New Patient Form (Josh)
